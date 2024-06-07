@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Florist Dash.sln"
+    "dotnet.defaultSolution": "Package-Delivery-Service.sln"
 }
